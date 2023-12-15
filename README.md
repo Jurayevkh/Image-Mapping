@@ -20,4 +20,4 @@ This repository contains an interactive map of Uzbekistan created using HTML and
 
 
 ## View in Deploy🌐:
-  [Netlify App](https://657c3dd09de39d02b386d639--spiffy-phoenix-06fa93.netlify.app/)
+  [Netlify App](https://mapofuzbekistan.netlify.app/)
